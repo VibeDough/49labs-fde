@@ -1,0 +1,11 @@
+{
+  "name": "49labs-fde",
+  "pages_build_output_dir": "./dist",
+  "compatibility_date": "2026-07-21",
+  "kv_namespaces": [
+    {
+      "binding": "QUIZ",
+      "id": "d1e238aff951452a87db892f2cd71bf5"
+    }
+  ]
+}

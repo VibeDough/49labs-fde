@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.wrangler/
+dist/
+site/**/*.html
+!site/index.html
+!site/tools/fde/FDE工程师考核题库.html
+!site/tools/fde/制造业学习指南.html
